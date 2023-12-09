@@ -7,7 +7,7 @@
 <br>
 
 ## Status 😊
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arefin22&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arefin22&theme=transparent&hide_border=true)](https://github.com/arefin22)
 
 <br>
 <br>
