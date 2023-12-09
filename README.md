@@ -14,10 +14,10 @@
 <br>
 
 # Hi! 👋
-## Shamsul Arefin
-Web Developer | JavaScript enthusiast | Computer Engineer 
+## Shamsul Arefin 😊
+💻 Web Developer 💻 | 👩‍💻 JavaScript enthusiast 👩‍💻 | 👨‍🔬 Computer Engineer 👨‍🔬
 <br>
-Lives In Dhaka
+📌 Lives In Dhaka 📌
 
 <br>
 <br>
